@@ -1,0 +1,8 @@
+---
+spring:
+  config:
+    name:"ale"
+    location:"roma"
+  profiles:
+    active:"ale"
+    include:"roma"
