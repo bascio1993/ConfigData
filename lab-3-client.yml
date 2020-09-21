@@ -1,8 +1,0 @@
----
-spring:
-  config:
-    key:"ale"
-    value:"roma"
-    value:"firenze"
-    value:"napoli"
-  
